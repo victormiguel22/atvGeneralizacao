@@ -20,10 +20,10 @@ public class Main {
 		cs.setNumeroConta(2234);
 		cs.setSaldoPoupanca(1000);
 		
-		ce.setSaldo(500);
-		ce.setBanco("Bradesco");
-		ce.setAgencia(1);
-		ce.setNumeroConta(1123);
+		ce.setSaldo(1500);
+		ce.setBanco("Banco do Brasil");
+		ce.setAgencia(3);
+		ce.setNumeroConta(3345);
 		ce.setDiasSemJuros(5);
 		ce.setLimite(1500);
 		
@@ -71,3 +71,4 @@ public class Main {
 	}
 
 }
+
